@@ -1,0 +1,50 @@
+{
+    "item.fortunate.iron_chunk": "Кусок железной руды",
+    "item.fortunate.gold_chunk": "Кусок золотой руды",
+    
+    "item.fortunate.copper_chunk": "Кусок медной руды",
+    
+    "item.fortunate.copper_ingot": "Медный слиток",
+    
+    "item.fortunate.tin_chunk": "Кусок оловянной руды",
+    
+    "item.fortunate.tin_ingot": "Оловянный слиток",
+    
+    "item.fortunate.platinum_chunk": "Кусок платиновой руды",
+    
+    "item.fortunate.platinum_ingot": "Платиновый слиток",
+    
+    "item.fortunate.silver_chunk": "Кусок серебряной руды",
+    
+    "item.fortunate.silver_ingot": "Серебряный слиток",
+    
+    "item.fortunate.nickel_chunk": "Кусок никелевой руды",
+    
+    "item.fortunate.nickel_ingot": "Никелевый слиток",
+    
+    "item.fortunate.lead_chunk": "Кусок свинцовой руды",
+    
+    "item.fortunate.lead_ingot": "Свинцовый слиток",
+    
+    "item.fortunate.cobalt_chunk": "Кусок кобальтовой руды",
+    
+    "item.fortunate.cobalt_ingot": "Кобальтовый слиток",
+    
+    "item.fortunate.osmium_chunk": "Кусок осмиевой руды",
+    
+    "item.fortunate.osmium_ingot": "Осмиевый слиток",
+    
+    "item.fortunate.aluminum_chunk": "Кусок алюминиевой руды",
+    
+    "item.fortunate.aluminum_ingot": "Алюминиевый слиток",
+    
+    "item.fortunate.zinc_chunk": "Кусок цинковой руды",
+    
+    "item.fortunate.zinc_ingot": "Цинковый слиток",
+    
+    "item.fortunate.uranium_chunk": "Кусок урановой руды",
+    
+    "item.fortunate.uranium_ingot": "Урановый слиток",
+  
+    "itemGroup.mod_creative_tab": "How Fortunate!"
+}
